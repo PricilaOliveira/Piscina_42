@@ -1,5 +1,4 @@
-# Meu processo seletivo para a 42 Rio
-
+# Meu processo seletivo para a [42 Rio](https://42.rio/).
 ![42](https://github.com/user-attachments/assets/42ee6877-da2e-4adb-a5d6-5def140ec7fa)
 
 ## A 42
