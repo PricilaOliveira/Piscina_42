@@ -2,8 +2,8 @@
 
 
 |#	|SUBJECT							|LANGUAGE	|STATUS						|
-|:-:|:--								|:-:		|--:						|
-|00	|[Eu aceito](./eu_aceito)			|N/A		|:heavy_check_mark:			|
+|:-:|:--							   	|:-:		  |--:						  |
+|00	|[Eu aceito](./PDFs/Listas_Exercícios/d00-eu_aceito-pt.pdf)	|N/A		|:heavy_check_mark:			|
 |01	|[Shell 00](./c_piscine_shell_00)	|Shell		|:heavy_check_mark:			|
 |02	|[Shell 01](./c_piscine_shell_01)	|C			|:heavy_check_mark:			|
 |03	|[Shell 01](./c_piscine_shell_01)	|Shell		|:heavy_check_mark:			|
@@ -18,7 +18,7 @@
 |11	|[Rush 00](./c_piscine_rush_00)		|C			|:heavy_check_mark:			|
 |12	|[Rush 01](./c_piscine_rush_01)		|C			|:x:						|
 |13	|[Rush 02](./c_piscine_rush_02)		|C			|:x:						|
-|14	|Exam 00							|C			|30/100	:heavy_check_mark:	|
-|15	|Exam 01							|C			|40/100	:heavy_check_mark:	|
-|16	|Exam 02							|C			|20/100	:x:					|
+|14	|Exam 00							|C			|30/100	 :heavy_check_mark:	|
+|15	|Exam 01							|C			|40/100	 :heavy_check_mark:	|
+|16	|Exam 02							|C			|20/100   :x:					|
 |17	|Final Exam							|C			|24/100 :x:					|
